@@ -286,7 +286,7 @@ For a 96-well Plate:
 | Reverse Primer |130|1.25 |10 μM | 0.5 μM |
 | DMSO|78 | 0.75|100%|3% |
 | Nuclease-Free Water |689|6 | N/A|N/A |
-| rAlbumin|65| 1.25|20 µg/µL |0.5 µg/µL|
+| rAlbumin|65| 1.25|20 µg/µL |1 µg/µL|
 | Template DNA|N/A| 2 | 100%|8% |
 | **Total**|**2392**| **25** | **N/A** |**N/A**|
 
