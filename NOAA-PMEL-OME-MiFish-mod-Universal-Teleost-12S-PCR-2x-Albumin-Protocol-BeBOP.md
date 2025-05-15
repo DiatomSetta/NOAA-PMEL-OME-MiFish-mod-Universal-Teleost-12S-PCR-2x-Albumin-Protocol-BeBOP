@@ -50,7 +50,7 @@ probe_seq: not applicable
 probe_ref: not applicable
 probe_conc: not applicable
 commercial_mm: Phusion High-Fidelity PCR Master Mix with HF Buffer (NEB - M0531L])
-custom_mm: PCR reactions were run in 25 uL reaction volumes, with 2 uL of DNA, 12.5 uL of 2X Phusion Master Mix, 6.625 uL of water, 0.625 uL rAlbumin, 0.75 uL DMSO, and 1.25 uL of each primer (10 uM).
+custom_mm: PCR reactions were run in 25 uL reaction volumes, with 2 uL of DNA, 12.5 uL of 2X Phusion Master Mix, 6 uL of water, 1.25 uL rAlbumin, 0.75 uL DMSO, and 1.25 uL of each primer (10 uM).
 block_seq: not applicable
 block_ref: not applicable
 block_taxa: not applicable
@@ -67,7 +67,7 @@ pcr_method_additional: Quality was validated via confirmation of a product on a 
 
 # NOAA PMEL OME MiFish mod Universal Teleost 12S PCR 2x Albumin Protocol
 
-** Note
+**NOTE: This is NOT THE RECOMMENDED 12S MiFish PCR protocol, for the standard OME protocol, see [NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-Protocol-BeBOP.md](https://github.com/marinednadude/NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-Protocol-BeBOP.md)**
 
 ## PROTOCOL INFORMATION
 
@@ -117,11 +117,7 @@ pcr_method_additional: Quality was validated via confirmation of a product on a 
 
 | VERSION | RELEASE DATE | DESCRIPTION OF REVISIONS |
 | ------------- | ------------- | ------------- |
-| 1.0.0 | 2024-02-01 | Initial release |
-| 1.0.1 | 2024-05-29 | Formatting edits |
-| 1.0.2 | 2024-10-23 | File edits |
-| 1.1.0 | 2025-02-05 | Addition of FAIR eDNA terms in YAML frontmatter and formatting edits |
-| 1.1.1 | 2025-05-01 | Standardization of FARE eDNA terms and formatting updates |
+| 1.0.0 | 2025-05-15 | Initial release |
 
 ### Acronyms and Abbreviations
 
@@ -156,6 +152,8 @@ pcr_method_additional: Quality was validated via confirmation of a product on a 
 ## BACKGROUND
 
 ### Summary
+
+**NOTE: This is NOT THE RECOMMENDED 12S MiFish PCR protocol, for the standard OME protocol, see [NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-Protocol-BeBOP.md](https://github.com/marinednadude/NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-Protocol-BeBOP.md)**
 
 This protocol describes steps for performing PCR for the 12S mitochondrial ribosomal RNA gene in vertebrates using eDNA. The primers (forward: MiFish-U-F_mod, reverse: MiFish-U-R) were first presented in [Sales et al. 2019](https://doi.org/10.1002/edn3.14) (forward) and [Miya et al. 2015](http://doi.org/10.1098/rsos.150088) (reverse). The MiFish-U-F_mod primer used in this protocol has 1 basepair substition from the MiFish-U-F primer used in [Miya et al. 2015](http://doi.org/10.1098/rsos.150088), but is otherwise identical. The target amplicon size is 163 - 185 base pairs.
 
@@ -243,7 +241,7 @@ For a 96-well Plate:
 | PCR master mix 2x|Phusion High-Fidelity PCR Master Mix with HF Buffer | New England BioLabs | 1300 μl per plate | Store at -20°C |
 | Forward primer | Custom oligo | IDT |130 μl per plate |Store at -20°C|
 | Reverse primer| Custom oligo | IDT | 130 μl per plate|Store at -20°C|
-| Nuclease free water | UltraPure DNase/RNase-free distilled water | ThermoFisher | 689 μl per plate||
+| Nuclease free water | UltraPure DNase/RNase-free distilled water | ThermoFisher | 312 μl per plate||
 | rAlbumin |Molecular Biology Grade Recombinant Albumin | New England BioLabs | 65 μl per plate|Store at -20°C|
 |DMSO|Phusion HF PCR Master Mix comes with DMSO|New England Biolabs| 78 μl per plate| Store at 4°C - must be warmed to room temperature to dissolve|
 | Positive control| gBlocks HiFi Gene Fragments | IDT | 2 μl per plate |Store at -20°C |
@@ -251,6 +249,8 @@ For a 96-well Plate:
 | 10% bleach| Hypochlorite bleach |Clorox| 40 mL | Remake every ~5 days as bleach decomposes quickly at 10% concentration |
 
 ## STANDARD OPERATING PROCEDURE
+
+**NOTE: This is NOT THE RECOMMENDED 12S MiFish PCR protocol, for the standard OME protocol, see [NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-Protocol-BeBOP.md](https://github.com/marinednadude/NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-Protocol-BeBOP.md)**
 
 ### Protocol
 
@@ -285,8 +285,8 @@ For a 96-well Plate:
 | Forward Primer |130| 1.25|10 μM |0.5 μM |
 | Reverse Primer |130|1.25 |10 μM | 0.5 μM |
 | DMSO|78 | 0.75|100%|3% |
-| Nuclease-Free Water |689|6.625 | N/A|N/A |
-| rAlbumin|65| 0.625|20 µg/µL |0.5 µg/µL|
+| Nuclease-Free Water |689|6 | N/A|N/A |
+| rAlbumin|65| 1.25|20 µg/µL |0.5 µg/µL|
 | Template DNA|N/A| 2 | 100%|8% |
 | **Total**|**2392**| **25** | **N/A** |**N/A**|
 
