@@ -65,7 +65,9 @@ pcr_analysis_software: missing":" not provided
 pcr_method_additional: Quality was validated via confirmation of a product on a gel.
 ---
 
-# NOAA PMEL OME MiFish mod Universal Teleost 12S PCR Protocol
+# NOAA PMEL OME MiFish mod Universal Teleost 12S PCR 2x Albumin Protocol
+
+** Note
 
 ## PROTOCOL INFORMATION
 
@@ -91,8 +93,9 @@ pcr_method_additional: Quality was validated via confirmation of a product on a 
 | Shannon Brown | Ocean Molecular Ecology, NOAA PMEL & UW CICOES  | <https://orcid.org/0000-0001-9808-2638>|2024-02-01|
 | Han Weinrich  | Ocean Molecular Ecology, NOAA PMEL & UW CICOES  | <http://orcid.org/0009-0007-6063-0986>|2024-02-01|
 | Sean McAllister |Ocean Molecular Ecology, NOAA PMEL & UW CICOES	|<http://orcid.org/0000-0001-6654-3495>|2024-02-01|
-| Matt Galaska	|Ocean Molecular Ecology, NOAA PMEL|<http://orcid.org/0000-0002-4257-0170>	|2024-02-01|
+| Matt Galaska	|Ocean Molecular Ecology, NOAA PMEL |<http://orcid.org/0000-0002-4257-0170>	|2024-02-01|
 | Zachary Gold	|Ocean Molecular Ecology, NOAA PMEL	|<http://orcid.org/0000-0003-0490-7630>	|2024-02-01|
+| Sam Setta |Ocean Molecular Ecology, NOAA PMEL	| <https://orcid.org/0000-0001-9075-7573>|2025-05-15|
   
 ### Related Protocols
 
