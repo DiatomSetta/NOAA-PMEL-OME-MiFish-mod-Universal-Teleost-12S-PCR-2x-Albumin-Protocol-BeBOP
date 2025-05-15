@@ -9,7 +9,7 @@ broad_scale_environmental_context: marine biome [ENVO:00000447], marine photic z
 local_environmental_context: oceanic epipelagic zone biome [ENVO:01000035], marine biome [ENVO:00000447], marine benthic biome [ENVO:01000024]
 environmental_medium: sea water [ENVO:00002149]
 target: 12S mitochondrial ribosomal RNA  [NCIT:C128263], MT-RNR1 Gene [NCIT:C128260]
-creator: Shannon Brown, Han Weinrich, Zachary Gold
+creator: Shannon Brown, Han Weinrich, Zachary Gold, Sean McAllister, Matt Galaska, Sam Setta
 materials_required: vortexer [OBI:0400118], PCR instrument [OBI:0000989]
 skills_required: sterile technique, pipetting skills, standard molecular technique
 time_required: 170
