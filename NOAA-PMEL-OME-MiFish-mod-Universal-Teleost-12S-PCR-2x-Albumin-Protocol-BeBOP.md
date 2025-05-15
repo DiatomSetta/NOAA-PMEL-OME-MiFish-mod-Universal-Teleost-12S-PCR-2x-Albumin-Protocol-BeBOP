@@ -241,8 +241,8 @@ For a 96-well Plate:
 | PCR master mix 2x|Phusion High-Fidelity PCR Master Mix with HF Buffer | New England BioLabs | 1300 μl per plate | Store at -20°C |
 | Forward primer | Custom oligo | IDT |130 μl per plate |Store at -20°C|
 | Reverse primer| Custom oligo | IDT | 130 μl per plate|Store at -20°C|
-| Nuclease free water | UltraPure DNase/RNase-free distilled water | ThermoFisher | 312 μl per plate||
-| rAlbumin |Molecular Biology Grade Recombinant Albumin | New England BioLabs | 65 μl per plate|Store at -20°C|
+| Nuclease free water | UltraPure DNase/RNase-free distilled water | ThermoFisher | 624 μl per plate||
+| rAlbumin |Molecular Biology Grade Recombinant Albumin | New England BioLabs | 130 μl per plate|Store at -20°C|
 |DMSO|Phusion HF PCR Master Mix comes with DMSO|New England Biolabs| 78 μl per plate| Store at 4°C - must be warmed to room temperature to dissolve|
 | Positive control| gBlocks HiFi Gene Fragments | IDT | 2 μl per plate |Store at -20°C |
 | 70% EtOH | Molecular grade ethanol| Generic | 40 mL | |
