@@ -151,10 +151,9 @@ pcr_method_additional: Quality was validated via confirmation of a product on a 
 | Positive control  | PCR positive control. Typically a synthetic DNA strand, non-indigenous DNA extract, or intentionally designed mock community loaded in place of a sample on a PCR to control for contamination and index hopping in the PCR step. |
 
 ## BACKGROUND
+**NOTE: This is NOT THE RECOMMENDED 12S MiFish PCR protocol, for the standard OME protocol, see [NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-Protocol-BeBOP.md](https://github.com/marinednadude/NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-Protocol-BeBOP.md)**
 
 ### Summary
-
-**NOTE: This is NOT THE RECOMMENDED 12S MiFish PCR protocol, for the standard OME protocol, see [NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-Protocol-BeBOP.md](https://github.com/marinednadude/NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-Protocol-BeBOP.md)**
 
 This protocol describes steps for performing PCR for the 12S mitochondrial ribosomal RNA gene in vertebrates using eDNA. The primers (forward: MiFish-U-F_mod, reverse: MiFish-U-R) were first presented in [Sales et al. 2019](https://doi.org/10.1002/edn3.14) (forward) and [Miya et al. 2015](http://doi.org/10.1098/rsos.150088) (reverse). The MiFish-U-F_mod primer used in this protocol has 1 basepair substition from the MiFish-U-F primer used in [Miya et al. 2015](http://doi.org/10.1098/rsos.150088), but is otherwise identical. The target amplicon size is 163 - 185 base pairs.
 
