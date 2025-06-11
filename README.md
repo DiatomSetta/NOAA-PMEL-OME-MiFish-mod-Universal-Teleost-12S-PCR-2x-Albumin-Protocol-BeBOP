@@ -1,5 +1,7 @@
 # NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-2x-Albumin-Protocol-BeBOP
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15642738.svg)](https://doi.org/10.5281/zenodo.15642738)
+
 **Note: This is NOT the recommended 12S MiFish PCR protocol, for the standard OME protocol see [NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-Protocol-BeBOP.md](https://github.com/marinednadude/NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-Protocol-BeBOP.md)**
 
 For the 2x Albumin modified OME detailed protocol, see [NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-2x-Albumin-Protocol-BeBOP.md](https://github.com/DiatomSetta/NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-2x-Albumin-Protocol-BeBOP/blob/main/NOAA-PMEL-OME-MiFish-mod-Universal-Teleost-12S-PCR-2x-Albumin-Protocol-BeBOP.md). 
