@@ -4,10 +4,10 @@ methodology_category: Omics analysis
 project: NOAA Pacific Marine Environmental Laboratory Ocean Molecular Ecology Group protocols
 purpose: PCR [OBI:0000415]
 analyses: PCR [OBI:0000415]
-geographic_location: 'North East Pacific Ocean [GAZ:00013765], Bering Sea [GAZ:00008990], Arctic Ocean [GAZ:00000323]'
-broad_scale_environmental_context: marine biome [ENVO:00000447], marine photic zone [ENVO:00000209]
-local_environmental_context: oceanic epipelagic zone biome [ENVO:01000035], marine benthic biome [ENVO:01000024]
-environmental_medium: sea water [ENVO:00002149]
+geographic_location: 'North East Pacific Ocean [GAZ:00013765], Bering Sea [GAZ:00008990], Arctic Ocean [GAZ:00000323], Lake Washington [GAZ:00008722]'
+broad_scale_environmental_context: marine biome [ENVO:00000447], marine photic zone [ENVO:00000209], freshwater biome [ENVO:00000873]
+local_environmental_context: oceanic epipelagic zone biome [ENVO:01000035], marine benthic biome [ENVO:01000024], freshwater lake biome [ENVO:01000252], estuary [ENVO:00000045]
+environmental_medium: sea water [ENVO:00002149], fresh water [ENVO:00002011]
 target: 12S mitochondrial ribosomal RNA  [NCIT:C128263], MT-RNR1 Gene [NCIT:C128260]
 creator: Shannon Brown, Han Weinrich, Zachary Gold, Sean McAllister, Matt Galaska, Sam Setta
 materials_required: vortexer [OBI:0400118], PCR instrument [OBI:0000989]
@@ -121,7 +121,7 @@ pcr_method_additional: Quality was validated via confirmation of a product on a 
 | 1.0.0 | 2025-05-15 | Initial release |
 | 1.0.1| 2025-05-29 | Minor acronym and content revisions  |
 | 1.1.0 | 2025-06-10 | Adding Gel Electrophoresis protocol, new acronym, and updated reaction mixture concentrations |
-| 1.1.1 | 2025-11-06 | Clarified safety guidelines and negative control language |
+| 1.1.1 | 2025-11-06 | Clarified safety guidelines, added freshwater reference, and negative control language |
 
 ### Acronyms and Abbreviations
 
